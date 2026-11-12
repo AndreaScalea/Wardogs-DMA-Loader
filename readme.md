@@ -1,1 +1,1 @@
-Wardogs DMA Loader v2.5
+Wardogs DMA Loader v2.7
